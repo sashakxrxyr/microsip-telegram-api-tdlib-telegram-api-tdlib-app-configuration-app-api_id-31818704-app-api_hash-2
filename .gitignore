@@ -41,6 +41,6 @@ yarn-error.log*
 next-env.d.ts
 
 # dotnet
-src/launcher/bin/
-src/launcher/obj/
-src/publish/launcher/
+src/installer/bin/
+src/installer/obj/
+src/installer/dist/
